@@ -23,8 +23,8 @@ Install the latest release from [Homebrew](https://brew.sh/), [Chocolatey](https
 # Homebrew (macOS and Linux)
 brew install gardener/tap/gardenlogin
 
-# Chocolatey (Windows)
-choco install gardenlogin
+# winget (Windows)
+winget install -e --id Gardener.gardenlogin
 ```
 
 ### Install from Github Release
